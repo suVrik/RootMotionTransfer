@@ -1,5 +1,7 @@
 # Root Motion Transfer
-Description to be written...
+This plugin allows to transfer root motion from armature object to root bone.
+
+![screenshot](https://github.com/suVrik/RootMotionTransfer/assets/1521057/d87f0b8a-31ef-4d8f-aea2-d5a4ee4d3f90)
 
 # Installation
 * Install Blender from https://www.blender.org/download/;
